@@ -1,1 +1,11 @@
-*
+{
+"version":"android-12.0",
+"filename":"PixelExperience_hanoip-12.1-20220609-1310-UNOFFICIAL.zip",
+"datetime":1654779508,
+"size":1453834838,
+"url":"https://sourceforge.net/projects/motorola-sm6150/files/G60/PixelExperience/PixelExperience_hanoip-12.1-20220609-1310-UNOFFICIAL.zip/download",
+"filehash":"1e97b6804483cbe406f7499e462b3482",
+"id":"db5082e6aa7ee4ff052f712fc6c95a1c5f50905b522a1e9f13fceb27a6e34330",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2022-05",
+"notification":"New PixelExperience Update"
+}
